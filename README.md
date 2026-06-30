@@ -1,13 +1,6 @@
 <div align="center">
-
-```
-   ██████╗██████╗  █████╗ ███████╗
-  ██╔════╝██╔══██╗██╔══██╗██╔════╝
-  ██║     ██████╔╝███████║█████╗
-  ██║     ██╔══██╗██╔══██║██╔══╝
-  ╚██████╗██║  ██║██║  ██║██║
-   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-```
+  <img src="assets/banner.svg" alt="CRAF — two agents writing together" width="100%"/>
+</div>
 
 # Clustered Real-Time Agent Federation
 
